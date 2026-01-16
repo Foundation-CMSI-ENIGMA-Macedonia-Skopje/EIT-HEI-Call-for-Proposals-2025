@@ -59,9 +59,11 @@ All other materials serve as **reference, drafting, or governance support**.
 * REPOSITORY ARCHITECTURE*
   
 00. EIT HEI References
+   
 00. Foundation CMSI ENIGMA Macedonia - Skopje
+   
 01. ID Index™
-      About
+    - About
     - References
     - Master narrative
     - Partners & Eco-System
@@ -74,40 +76,33 @@ All other materials serve as **reference, drafting, or governance support**.
       - Submission
         -	Draft
         -	Final
+          
+2. ENTRAINE®™
+    - About
+    - References
+    - Master narrative
+    - Partners & Ecosystem
+    - PROPOSAL
+      - References
+      - Actions and KPI’s
+      - Excellence 
+      - Impact
+      - Implementation
+      - Submission
+        -	Draft
+        -	Final
 
-
-
-02. ENTRAINE®™
-00. About
-01. References
-02. Master narrative
-03. Partners
-04. PROPOSAL
-00. References
-01. Actions and KPI’s
-02. Excellence 
-03. Impact
-04. Implementation
-05. Submission
--	Draft
--	Final
-
-
-03. ICF Advanced™
-00. About
-01. References
-02. Master narrative
-03. Partners
-04. PROPOSAL
-00. References
-01. Actions and KPI’s
-02. Excellence 
-03. Impact
-04. Implementation
-05. Submission
--	Draft
--	Final
-
+3. ICF Advanced™
+    - About
+    - References
+    - Master narrative
+    - Partners & Ecosystem
+    - Cross-cutting Framework Components
+      - References
+      - Actions and KPI’s Logic
+      - Institutional Alignment
+      - Governance & Ethics
+      - Sustainability & Scale-up Logic
 
 
 ---
