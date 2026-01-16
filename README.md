@@ -5,13 +5,17 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 ### Proposal Applications
 
-- **Proposal Application 01: DIGITAL DIAGNOSTICS**  
+- **Proposal Application 01: DIGITAL DIAGNOSTICS (ID Index™)**  
   *(capacity building, education, and innovation in advanced digital diagnostics)*
 
-- **Proposal Application 02: DIGITAL THERAPEUTICS**  
+- **Proposal Application 02: DIGITAL THERAPEUTICS (ENTRAINE®™)**  
   *(capacity building, education, and innovation in digital rehabilitation and therapeutics)*
 
 (hereinafter collectively: *The Applications*).
+
+### Framework (ICF Advanced™)
+
+- **Regulatory, methodological and organizational convergence framework**
 
 ---
 
