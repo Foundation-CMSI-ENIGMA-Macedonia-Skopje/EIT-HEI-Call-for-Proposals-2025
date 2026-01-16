@@ -56,46 +56,59 @@ All other materials serve as **reference, drafting, or governance support**.
 
 ## 4. Repository Architecture (GitHub)
 
-•  EIT HEI References
-•  Foundation CMSI ENIGMA Macedonia – Skopje
-•  ID Index™
-├─ 00. About
-├─ 01. References
-├─ 02. Master Narrative
-├─ 03. Partners & Ecosystem
-└─ 04. PROPOSAL
-├─ 00. References
-├─ 01. Actions and KPIs
-├─ 02. Excellence
-├─ 03. Impact
-├─ 04. Implementation
-└─ 05. Submission
-├─ Draft
-└─ Final
-•  ENTRAINE®™
-├─ 00. About
-├─ 01. References
-├─ 02. Master Narrative
-├─ 03. Partners & Ecosystem
-└─ 04. PROPOSAL
-├─ 00. References
-├─ 01. Actions and KPIs
-├─ 02. Excellence
-├─ 03. Impact
-├─ 04. Implementation
-└─ 05. Submission
-├─ Draft
-└─ Final
-•  ICF Advanced™ – Master Framework (Reference Only)
-├─ 00. About
-├─ 01. References
-├─ 02. Master Narrative
-├─ 03. Partners & Ecosystem
-└─ 04. Cross-cutting Framework Components
-├─ Actions & KPI Logic
-├─ Institutional Alignment
-├─ Governance & Ethics
-└─ Sustainability & Scale-up Logic
+* REPOSITORY ARCHITECTURE*
+  
+00. EIT HEI References
+00. Foundation CMSI ENIGMA Macedonia - Skopje
+01. ID Index™
+      About
+    - References
+    - Master narrative
+    - Partners & Eco-System
+    - PROPOSAL
+      - References
+      - Actions and KPI’s
+      - Excellence 
+      - Impact
+      - Implementation
+      - Submission
+        -	Draft
+        -	Final
+
+
+
+02. ENTRAINE®™
+00. About
+01. References
+02. Master narrative
+03. Partners
+04. PROPOSAL
+00. References
+01. Actions and KPI’s
+02. Excellence 
+03. Impact
+04. Implementation
+05. Submission
+-	Draft
+-	Final
+
+
+03. ICF Advanced™
+00. About
+01. References
+02. Master narrative
+03. Partners
+04. PROPOSAL
+00. References
+01. Actions and KPI’s
+02. Excellence 
+03. Impact
+04. Implementation
+05. Submission
+-	Draft
+-	Final
+
+
 
 ---
 
