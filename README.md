@@ -101,7 +101,6 @@ All other materials serve as **reference, drafting, or governance support**.
     - Master narrative
     - Partners & Ecosystem
     - Cross-cutting Framework Components
-      - References
       - Actions and KPI’s Logic
       - Institutional Alignment
       - Governance & Ethics
