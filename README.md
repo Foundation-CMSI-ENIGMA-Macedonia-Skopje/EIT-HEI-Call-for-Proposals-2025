@@ -16,5 +16,5 @@ Purpose of This Repository
 
 This repository supports the preparation of **two independent but complementary EIT HEI proposals**:
 
-- **PROPOSAL A – ID Index™ (Diagnostics)**
-- **PROPOSAL B – ENTRAINE®™ (Rehabilitation / Digital Therapeutics)**
+- **PROPOSAL A – ID Index™ (Digital Diagnostics)**
+- **PROPOSAL B – ENTRAINE®™ (Digital Therapeutics)**
