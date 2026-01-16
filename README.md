@@ -17,12 +17,12 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 ## 1. Institutional & IP Context
 
-**ICF Advanced™** is an institutional initiative of **Foundation CMSI ENIGMA**, serving as the **regulatory, methodological, and organizational convergence framework** where the two Applications align at strategic and institutional level.
+**ICF Advanced™** is an institutional initiative of **The Foundation**, serving as the **regulatory, methodological, and organizational convergence framework** where The Applications align at strategic and institutional level.
 
-The Foundation **owns and holds the copyright** of all content developed for the Applications.
+The Foundation **owns and holds the copyright** of all content developed for The Applications.
 
 All trademarks, copyrights, and foreground IP related to:
-**![stamp-inverse-111](https://github.com/user-attachments/assets/39283543-38d8-43bc-b8b9-84f5ad62164f) | ID Index™ | ENTRAINE®™**
+**| ICF Advanced™ | ID Index™ | ENTRAINE®™ |**
 are owned and held by the Foundation, unless explicitly stated otherwise.
 
 ---
