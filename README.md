@@ -133,7 +133,7 @@ Partners are **not positioned as subcontractors or mandatory suppliers**.
 ## 7. Authorized Representative
 
 Gjorgji Dimovski | https://www.linkedin.com/in/gjorgji-dimovski/
-**Foundation CMSI ENIGMA Macedonia - Skopje**  
+**Foundation CMSI ENIGMA Macedonia - Skopje** | https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/884439308?keywords=884439308&isExactMatch=true&type=ORGANISATION&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified&orgType=participant |
 Skopje, North Macedonia
 
 
