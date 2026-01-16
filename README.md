@@ -80,11 +80,10 @@ Partners are **not positioned as subcontractors or mandatory suppliers**.
 
 ---
 
-## 7. Maintainer
+## 7. Authorized Representative
 
-**Foundation CMSI ENIGMA**  
+Gjorgji Dimovski | https://www.linkedin.com/in/gjorgji-dimovski/
+**Foundation CMSI ENIGMA Macedonia - Skopje**  
 Skopje, North Macedonia
 
-This repository reflects an evolving proposal process under the EIT HEI Call 2025.  
-All modifications should respect governance, IP ownership, and scope discipline.
 
