@@ -80,7 +80,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
           
-2. ENTRAINE®™
+02. ENTRAINE®™
     - About
     - References
     - Master narrative
@@ -95,7 +95,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
 
-3. ICF Advanced™
+03. ICF Advanced™
     - About
     - References
     - Master narrative
