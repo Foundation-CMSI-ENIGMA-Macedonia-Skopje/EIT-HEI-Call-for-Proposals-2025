@@ -46,7 +46,7 @@ No content in this repository constitutes:
 
 ---
 
-## 3. Submission Authority
+## 3. The Applications
 
 Only the following folders contain **submission-ready material intended for the EIT HEI Call**:
 
@@ -120,18 +120,7 @@ Partners are **not positioned as subcontractors or mandatory suppliers**.
 
 ---
 
-## 6. Usage Guidance
-
-- Treat this repository as the **single source of truth**
-- Maintain symmetry between the two Applications
-- Preserve separation between:
-  - reference science,
-  - governance and framework material,
-  - submission-ready proposal text
-
----
-
-## 7. Authorized Representative
+## 6. Authorized Representative
 
 Gjorgji Dimovski | +389 78 369 639 | enigma.org.mk@gmail.com |
 <br>
