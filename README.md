@@ -15,7 +15,7 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 ### Institutional Framework
 
-- **ICF Advanced™** is an institutional initiative of **The Foundation**, serving as the **regulatory, methodological, and organizational convergence framework** where The Applications align at strategic and institutional level.
+- **ICF Advanced™** (hereinafter: *The Framework*) is an institutional initiative of **The Foundation**, serving as the **regulatory, methodological, and organizational convergence framework** where The Applications align at strategic and institutional level.
 
 ---
 
