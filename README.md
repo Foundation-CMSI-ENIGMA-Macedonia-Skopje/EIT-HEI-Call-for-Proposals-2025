@@ -1,7 +1,7 @@
 # EIT HEI Call for Proposals 2025  
 ## Dual, Complementary Proposal Repository
 
-This repository contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *the Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *the Foundation*).
+This repository contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
 
 ### Proposal Applications
 - **Proposal Application 01: DIGITAL DIAGNOSTICS**  
@@ -10,7 +10,7 @@ This repository contains documentation and structured content supporting the pre
 - **Proposal Application 02: DIGITAL THERAPEUTICS**  
   *(capacity building, education, and innovation in digital rehabilitation and therapeutics)*
 
-(hereinafter collectively: *the Applications*).
+(hereinafter collectively: *The Applications*).
 
 ---
 
@@ -55,6 +55,47 @@ All other materials serve as **reference, drafting, or governance support**.
 ---
 
 ## 4. Repository Architecture (GitHub)
+
+•  EIT HEI References
+•  Foundation CMSI ENIGMA Macedonia – Skopje
+•  ID Index™
+├─ 00. About
+├─ 01. References
+├─ 02. Master Narrative
+├─ 03. Partners & Ecosystem
+└─ 04. PROPOSAL
+├─ 00. References
+├─ 01. Actions and KPIs
+├─ 02. Excellence
+├─ 03. Impact
+├─ 04. Implementation
+└─ 05. Submission
+├─ Draft
+└─ Final
+•  ENTRAINE®™
+├─ 00. About
+├─ 01. References
+├─ 02. Master Narrative
+├─ 03. Partners & Ecosystem
+└─ 04. PROPOSAL
+├─ 00. References
+├─ 01. Actions and KPIs
+├─ 02. Excellence
+├─ 03. Impact
+├─ 04. Implementation
+└─ 05. Submission
+├─ Draft
+└─ Final
+•  ICF Advanced™ – Master Framework (Reference Only)
+├─ 00. About
+├─ 01. References
+├─ 02. Master Narrative
+├─ 03. Partners & Ecosystem
+└─ 04. Cross-cutting Framework Components
+├─ Actions & KPI Logic
+├─ Institutional Alignment
+├─ Governance & Ethics
+└─ Sustainability & Scale-up Logic
 
 ---
 
