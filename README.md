@@ -21,7 +21,7 @@ This repository contains documentation and structured content supporting the pre
 The Foundation **owns and holds the copyright** of all content developed for the Applications.
 
 All trademarks, copyrights, and foreground IP related to:
-**ICF Advanced™ | ID Index™ | ENTRAINE®™**
+**![stamp-inverse-111](https://github.com/user-attachments/assets/39283543-38d8-43bc-b8b9-84f5ad62164f) | ID Index™ | ENTRAINE®™**
 are owned and held by the Foundation, unless explicitly stated otherwise.
 
 ---
