@@ -132,9 +132,12 @@ Partners are **not positioned as subcontractors or mandatory suppliers**.
 
 ## 7. Authorized Representative
 
-Gjorgji Dimovski | https://www.linkedin.com/in/gjorgji-dimovski/
+Gjorgji Dimovski | +389 78 369 639 | 
+<br>
+https://www.linkedin.com/in/gjorgji-dimovski/
 <br>
 **Foundation CMSI ENIGMA Macedonia - Skopje**
+<br>
 <br>
 ![logo-mail-en](https://github.com/user-attachments/assets/f5aa5f0b-e824-4d8f-a696-822b293d4c71)
 <br>
