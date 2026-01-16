@@ -1,7 +1,7 @@
 # EIT HEI Call for Proposals 2025  
-## REPOSITORY
+## DIGITAL REPOSITORY
 
-This repository contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
+This DIGITAL REPOSITORY (here and after: The Repository) contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
 
 ### Proposal Applications
 - **Proposal Application 01: DIGITAL DIAGNOSTICS**  
