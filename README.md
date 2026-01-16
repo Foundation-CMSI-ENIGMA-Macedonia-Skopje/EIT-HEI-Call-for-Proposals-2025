@@ -1,5 +1,5 @@
 # EIT HEI Call for Proposals 2025  
-## Dual, Complementary Proposal Repository
+## REPOSITORY
 
 This repository contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
 
