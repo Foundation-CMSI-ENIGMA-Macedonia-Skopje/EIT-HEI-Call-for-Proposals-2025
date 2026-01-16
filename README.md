@@ -21,7 +21,7 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 ## 1. IP Context
 
-The Foundation **owns and holds the copyright** of all content developed for The Applications.
+The Foundation **owns and holds the copyright** of all content developed for **The Applications** and **The Framework**.
 
 All trademarks, copyrights, and foreground IP related to:
 **| ICF Advanced™ | ID Index™ | ENTRAINE®™ |**
@@ -31,7 +31,7 @@ are owned and held by the Foundation, unless explicitly stated otherwise.
 
 ## 2. Scope Discipline (EIT HEI Alignment)
 
-This repository supports **institutional capacity building**, not product development or clinical validation.
+This repository supports **institutional capacity building** for **The Applications**.
 
 All proposal content is framed within the EIT HEI mission, including:
 - education and skills development,
