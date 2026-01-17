@@ -7,7 +7,7 @@ Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partn
 *The Foundation is Eligible Applicant for the **EIT HEI Call for Proposals 2025**
 
 * **KIC Synergies**: **EIT Health**
-* **CATEGORIES**: | MedTech | NeuroTech | DeepTech |
+* **CATEGORIES**: **| MedTech | NeuroTech | DeepTech |**
 
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
@@ -17,7 +17,7 @@ Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partn
 
 
 ## DIGITAL REPOSITORY
-This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
+This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by *The Foundation*.
 
 ### Proposal Applications
 
