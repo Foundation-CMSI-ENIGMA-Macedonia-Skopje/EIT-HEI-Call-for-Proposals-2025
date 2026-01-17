@@ -1,4 +1,4 @@
-# EIT HEI Call for Proposals 2025
+# **EIT HEI Call for Proposals 2025**
 
 ## ABOUT
 
@@ -9,6 +9,8 @@ Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partn
 * **KIC Synergies**: **EIT Health - Horizon Europe Framework (FP9)**
 * **CATEGORIES**: **#MedTech / #DeepTech**
 
+## REFERENCES
+
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
 [UKIM-ENIGMA MoU - TECHSIGHT.pdf](https://github.com/user-attachments/files/24689299/UKIM-ENIGMA.MoU.-.TECHSIGHT.pdf) <- DOWNLOAD
@@ -17,6 +19,7 @@ Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partn
 
 
 ## DIGITAL REPOSITORY
+
 This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by *The Foundation*.
 
 ### Proposal Applications
