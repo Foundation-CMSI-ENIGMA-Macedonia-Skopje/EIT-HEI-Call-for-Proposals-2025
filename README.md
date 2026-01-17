@@ -1,4 +1,6 @@
 # **EIT HEI Call for Proposals 2025**
+![EIT HEI Call 2025](https://img.shields.io/badge/EIT_HEI_Call_2025-active-brightgreen)
+![Status](https://img.shields.io/badge/Status-draft-blue)
 
 ## ABOUT
 
