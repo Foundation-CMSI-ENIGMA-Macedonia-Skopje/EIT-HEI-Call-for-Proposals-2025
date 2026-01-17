@@ -1,6 +1,7 @@
-# EIT HEI Call for Proposals 2025  
-## DIGITAL REPOSITORY
+# EIT HEI Call for Proposals 2025
 
+## DIGITAL REPOSITORY
+![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/67375d32-8e72-4fc5-bf67-0829a5c7a7ef)
 This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation and structured content supporting the preparation of **two independent, yet complementary and synchronized Proposal Applications** for the **EIT HEI Call for Proposals 2025** (hereinafter: *The Call*), developed by **Foundation CMSI ENIGMA Macedonia – Skopje** (hereinafter: *The Foundation*).
 
 ### Proposal Applications
