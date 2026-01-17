@@ -7,7 +7,7 @@ Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partn
 *The Foundation is Eligible Applicant for the **EIT HEI Call for Proposals 2025**
 
 * **KIC Synergies**: **EIT Health - Horizon Europe Framework (FP9)**
-* **CATEGORIES**: **| #MedTech | #NeuroTech | #DeepTech |**
+* **CATEGORIES**: ** #MedTech / #DeepTech**
 
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
