@@ -4,12 +4,10 @@
 
 Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) is Partner in the TECHSIGHT PROJECT under the EIT Higher Education Initiative.
 
-The Foundation is Eligible Applicant for the **EIT HEI Call for Proposals 2025**
+*The Foundation is Eligible Applicant for the **EIT HEI Call for Proposals 2025**
 
-**KIC Synergies**
-  **EIT Health**
-
-| MedTech | NeuroTech | DeepTech |
+* **KIC Synergies**: **EIT Health**
+* **CATEGORIES**: | MedTech | NeuroTech | DeepTech |
 
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
