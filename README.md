@@ -85,14 +85,12 @@ All other materials serve as **reference, drafting, or governance support**.
 ---
 
 ## 4. Repository Architecture (GitHub)
-
-* REPOSITORY ARCHITECTURE*
   
-00. EIT HEI References
+  00. EIT HEI References
    
-01. Foundation CMSI ENIGMA Macedonia - Skopje
+  01. Foundation CMSI ENIGMA Macedonia - Skopje
    
-02. ID Index™ (DIGITAL DIAGNOSTICS)
+  02. ID Index™ (DIGITAL DIAGNOSTICS)
     - About
     - References
     - Master narrative
@@ -107,7 +105,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
           
-03. ENTRAINE®™ (DIGITAL THERAPEUTICS)
+  03. ENTRAINE®™ (DIGITAL THERAPEUTICS)
     - About
     - References
     - Master narrative
@@ -122,7 +120,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
 
-04. ICF Advanced™ (MASTER FRAMEWORK - REFERENCE ONLY)
+  04. ICF Advanced™ (MASTER FRAMEWORK - REFERENCE ONLY)
     - About
     - References
     - Master narrative
