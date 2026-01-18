@@ -28,15 +28,21 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 - **Proposal Application 01: DIGITAL DIAGNOSTICS (ID Index™)**  
   *(capacity building, education, and innovation in advanced digital diagnostics)*
+  
+  ![ID-Index™](https://github.com/user-attachments/assets/95f3f8e2-6f5f-46fe-a54c-9f7ccf2f7921)
 
 - **Proposal Application 02: DIGITAL THERAPEUTICS (ENTRAINE®™)**  
   *(capacity building, education, and innovation in digital rehabilitation and therapeutics)*
+
+  ![ENTRAINE®™](https://github.com/user-attachments/assets/f7629291-c118-4d3a-ad97-a2acbbb10c49)
 
 (hereinafter collectively: *The Applications*).
 
 ### Institutional Framework
 
 - **ICF Advanced™** (hereinafter: *The Framework*) is an institutional initiative of **The Foundation**, serving as the **regulatory, methodological, and organizational convergence framework** where The Applications align at strategic and institutional level.
+  
+  ![ICF-Advanced™](https://github.com/user-attachments/assets/0b6d0d3e-8aa4-497b-aa5b-a848478ead78)
 
 ---
 
