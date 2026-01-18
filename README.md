@@ -4,7 +4,6 @@
 
 ## ABOUT
 
-Foundation CMSI ENIGMA Macedonia - Skopje (hereinafter: The Foundation) 
 ![02](https://github.com/user-attachments/assets/6e4d5ae4-e77c-4ab3-832c-62f9f5541d22)
 
 ## REFEENCES
@@ -15,8 +14,6 @@ The Foundation is Partner in the TECHSIGHT PROJECT under the EIT Higher Educatio
 
 * **KIC Synergies**: **EIT Health - Horizon Europe Framework (FP9)**
 * **CATEGORIES**: **#MedTech / #DeepTech**
-
-## REFERENCES
 
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
