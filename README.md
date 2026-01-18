@@ -84,9 +84,9 @@ All other materials serve as **reference, drafting, or governance support**.
   
 00. EIT HEI References
    
-00. Foundation CMSI ENIGMA Macedonia - Skopje
+01. Foundation CMSI ENIGMA Macedonia - Skopje
    
-01. ID Index™
+02. ID Index™ (DIGITAL DIAGNOSTICS)
     - About
     - References
     - Master narrative
@@ -101,7 +101,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
           
-02. ENTRAINE®™
+03. ENTRAINE®™ (DIGITAL THERAPEUTICS)
     - About
     - References
     - Master narrative
@@ -116,7 +116,7 @@ All other materials serve as **reference, drafting, or governance support**.
         -	Draft
         -	Final
 
-03. ICF Advanced™
+04. ICF Advanced™ (MASTER FRAMEWORK - REFERENCE ONLY)
     - About
     - References
     - Master narrative
