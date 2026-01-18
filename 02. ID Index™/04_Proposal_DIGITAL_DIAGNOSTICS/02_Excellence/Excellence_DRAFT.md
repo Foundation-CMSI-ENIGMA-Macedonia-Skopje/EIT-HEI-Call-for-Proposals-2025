@@ -56,9 +56,11 @@ ________________________________________
 **3.2 Index-Based Interpretation**
 
   A key innovation lies in the transformation of raw multimodal data into composite diagnostic indices (“ID Index™”), enabling:
+  
   •	standardized interpretation across institutions,
   •	comparability in longitudinal and cross-cohort studies,
   •	and usability for non-technical stakeholders (clinicians, researchers, educators).
+  
   This index-based logic significantly enhances translation readiness, a critical weakness in many academic diagnostic tools.
   
 ________________________________________
@@ -66,9 +68,11 @@ ________________________________________
 **3.3 ICF-Mapped Diagnostic Framework**
 
   All diagnostic outputs are explicitly mapped to the WHO ICF framework, ensuring:
+  
   •	alignment with internationally recognized health classification standards,
   •	holistic representation of body functions, activities, participation, and contextual factors,
   •	and policy relevance at institutional and system levels.
+  
   This ICF-based mapping is a major differentiator, enabling interoperability between diagnostics, education, healthcare systems, and innovation policy frameworks.
   
 ________________________________________
@@ -89,6 +93,7 @@ ________________________________________
    
   At the start of the project, ID Index™ components operate at TRL 4–5 (validated in controlled research environments).
   Through the proposed actions, the project aims to reach TRL 6, by:
+  
   •	validating the diagnostic framework in HEI-linked pilot environments,
   •	strengthening data integration and index reliability,
   •	and establishing institutional workflows for diagnostics innovation.
@@ -98,6 +103,7 @@ ________________________________________
 **6. Role of Higher Education Institutions**
 
   HEIs play a central and active role in the proposed solution by:
+  
   •	co-developing diagnostic methodologies,
   •	validating psycho-bio-metrics approaches in academic and clinical research settings,
   •	integrating diagnostics innovation into education and training,
@@ -110,6 +116,7 @@ ________________________________________
 
 While this proposal focuses exclusively on digital diagnostics (ID Index™), it is strategically designed to be complementary to digital therapeutics initiatives (e.g. ENTRAINE®™), without functional or regulatory overlap.
 This separation ensures:
+
 •	regulatory clarity,
 •	scientific focus,
 •	and future interoperability without dependency.
@@ -117,4 +124,5 @@ ________________________________________
 
 **Conclusion**
 By combining scientific rigor, institutional innovation frameworks, and HEI-centered deployment, ID Index™ represents an excellent and credible digital diagnostics solution aligned with the objectives of the EIT HEI Call for Proposals 2025.
+
 
