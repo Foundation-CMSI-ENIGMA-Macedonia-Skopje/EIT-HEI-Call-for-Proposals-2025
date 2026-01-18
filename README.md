@@ -17,8 +17,6 @@ The Foundation is Partner in the TECHSIGHT PROJECT under the EIT Higher Educatio
 
 ![EIT HEI TECHSIGHT PROJECT](https://github.com/user-attachments/assets/c91774c1-6230-4a1c-ba67-f8b1456f0f61)
 
-[UKIM-ENIGMA MoU - TECHSIGHT.pdf](https://github.com/user-attachments/files/24689299/UKIM-ENIGMA.MoU.-.TECHSIGHT.pdf) <- DOWNLOAD
-
 ![UKIM-ENIGMA-MoU---TECHSIGHT-1](https://github.com/user-attachments/assets/b731794f-a852-4a6a-b764-02ac3bdd4222) ![UKIM-ENIGMA-MoU---TECHSIGHT-2](https://github.com/user-attachments/assets/96b5affd-4f11-4134-8304-119f79c3104f) ![UKIM-ENIGMA-MoU---TECHSIGHT-3](https://github.com/user-attachments/assets/01b71fba-c1db-43f6-a3cf-200e4f293f01)
 
 
