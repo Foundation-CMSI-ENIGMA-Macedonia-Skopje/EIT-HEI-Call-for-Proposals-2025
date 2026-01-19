@@ -1,4 +1,6 @@
-As the DeepTech Scientific Officer, I have synthesized the Foundation's intellectual property and technical specifications to draft the Excellence section for the EIT HEI Call 2025. This draft focuses on the integration of Deep Tech (AI, Health, Biotech) to advance STEM capacity building.
+As the DeepTech Scientific Officer, I have synthesized the Foundation's intellectual property and technical specifications to draft the Excellence section for the EIT HEI Call 2025.
+
+*This draft focuses on the integration of Deep Tech (AI, Health, Biotech) to advance STEM capacity building.
 
 **1. Excellence: Innovation and Deep Tech Ambition**
 
@@ -35,6 +37,6 @@ The Foundation has established a robust Intellectual Property (IP) framework to 
 
 **3. Alignment with Deep Tech Talent Initiative (DTTI)**
 
-The proposal directly addresses DTTI priorities by merging AI (automated protocol personalization), Health (DTx for dementia and mental health), and Biotech (neural interfacing and biometric monitoring). This multi-disciplinary approach ensures that the project not only builds capacity within Higher Education Institutions but also produces market-ready Deep Tech solutions with significant societal impact.
+*The proposal directly addresses DTTI priorities by merging AI (automated protocol personalization), Health (DTx for dementia and mental health), and Biotech (neural interfacing and biometric monitoring). This multi-disciplinary approach ensures that the project not only builds capacity within Higher Education Institutions but also produces market-ready Deep Tech solutions with significant societal impact.
  
 
