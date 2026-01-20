@@ -28,12 +28,12 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 ### Proposal Applications
 
 - **Proposal Application 01: ID Index™ (DIGITAL DIAGNOSTICS)**  
-  *(capacity building, education, and innovation in advanced digital diagnostics)*
+  *Topic 01: Capacity building, education, and innovation in advanced digital diagnostics*
   
   ![ID-Index™](https://github.com/user-attachments/assets/95f3f8e2-6f5f-46fe-a54c-9f7ccf2f7921)
 
 - **Proposal Application 02: ENTRAINE®™ (DIGITAL THERAPEUTICS)**  
-  *(capacity building, education, and innovation in digital rehabilitation and therapeutics)*
+  *Topic 01: Capacity building, education, and innovation in digital rehabilitation and therapeutics*
 
   ![ENTRAINE®™](https://github.com/user-attachments/assets/f7629291-c118-4d3a-ad97-a2acbbb10c49)
 
@@ -62,12 +62,14 @@ are owned and held by the Foundation, unless explicitly stated otherwise.
 This repository supports **institutional capacity building** for **The Applications**.
 
 All proposal content is framed within the EIT HEI mission, including:
+
 - education and skills development,
 - innovation capacity strengthening,
 - ecosystem and knowledge transfer,
 - entrepreneurial and institutional transformation.
 
 No content in this repository constitutes:
+
 - a clinical trial application,
 - a medical device regulatory submission,
 - a commercialization or procurement dossier.
