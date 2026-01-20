@@ -91,46 +91,10 @@ All other materials serve as **reference, drafting, or governance support**.
   01. Foundation CMSI ENIGMA Macedonia - Skopje
    
   02. ID Index™ (DIGITAL DIAGNOSTICS)
-    - About
-    - References
-    - Master narrative
-    - Partners & Eco-System
-    - PROPOSAL
-      - References
-      - Actions and KPI’s
-      - Excellence 
-      - Impact
-      - Implementation
-      - Submission
-        -	Draft
-        -	Final
           
   03. ENTRAINE®™ (DIGITAL THERAPEUTICS)
-    - About
-    - References
-    - Master narrative
-    - Partners & Ecosystem
-    - PROPOSAL
-      - References
-      - Actions and KPI’s
-      - Excellence 
-      - Impact
-      - Implementation
-      - Submission
-        -	Draft
-        -	Final
 
   04. ICF Advanced™ (MASTER FRAMEWORK - REFERENCE ONLY)
-    - About
-    - References
-    - Master narrative
-    - Partners & Ecosystem
-    - Cross-cutting Framework Components
-      - Actions and KPI’s Logic
-      - Institutional Alignment
-      - Governance & Ethics
-      - Sustainability & Scale-up Logic
-
 
 ---
 
