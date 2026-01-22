@@ -80,8 +80,8 @@ No content in this repository constitutes:
 
 Only the following folders contain **submission-ready material intended for the EIT HEI Call**:
 
-- `01. ID Index™ / PROPOSAL / Submission / Final`
-- `02. ENTRAINE®™ / PROPOSAL / Submission / Final`
+- `02. ID Index™ / 09_SUBMIT / Final`
+- `03. ENTRAINE®™ / 09_SUBMIT / Final`
 
 All other materials serve as **reference, drafting, or governance support**.
 
