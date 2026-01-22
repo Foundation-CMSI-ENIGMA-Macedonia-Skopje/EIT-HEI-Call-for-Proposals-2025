@@ -108,8 +108,6 @@ The Applications may reference established ecosystem and industry partners (e.g.
 - validation and experimentation platforms,
 - contributors to education, training, and ecosystem development.
 
-Partners are **not positioned as subcontractors or mandatory suppliers**.
-
 ---
 
 ## 6. Authorized Representative
