@@ -51,9 +51,7 @@ This DIGITAL REPOSITORY (hereinafter: *The Repository*) contains documentation a
 
 The Foundation **owns and holds the copyright** of all content developed for **The Applications** and **The Framework**.
 
-All trademarks, copyrights, and foreground IP related to:
-**| ICF Advanced™ | ID Index™ | ENTRAINE®™ |**
-are owned and held by the Foundation, unless explicitly stated otherwise.
+All trademarks, copyrights, and foreground IP related to: **| ICF Advanced™ | ID Index™ | ENTRAINE®™ |** are owned and held by the Foundation, unless explicitly stated otherwise.
 
 ---
 
@@ -68,11 +66,6 @@ All proposal content is framed within the EIT HEI mission, including:
 - ecosystem and knowledge transfer,
 - entrepreneurial and institutional transformation.
 
-No content in this repository constitutes:
-
-- a clinical trial application,
-- a medical device regulatory submission,
-- a commercialization or procurement dossier.
 
 ---
 
